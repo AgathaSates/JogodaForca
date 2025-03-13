@@ -1,5 +1,4 @@
-﻿﻿
-# Jogo da Forca
+﻿# Jogo da Forca
 
 ![Status Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento%20-yellow)
 
