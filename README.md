@@ -19,7 +19,7 @@
 ## Introdução
 
 - O computador escolherá aleatóriamente o nome de uma fruta.
-- o jogador deverá chutar letra por letra até acertar a palavra ou acabar suas chances (5 letras).
+- O jogador deverá chutar letra por letra até acertar a palavra ou acabar suas chances (5 letras).
 - Se o jogador chutar mais de 5 letras erradas, ele perde.
 
 ## Funcionalidades
