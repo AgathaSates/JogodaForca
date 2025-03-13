@@ -121,8 +121,6 @@
                         break;
                     }
 
-
-
                 } while (playerhanged == false && playerWin == false);              
                 Console.Write("Deseja jogar novamente? (S/N)");
                 string option = Console.ReadLine()!.ToUpper();
