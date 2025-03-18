@@ -6,7 +6,7 @@
  ### Demonstração
  Este é um jogo da forca, você tenta adivinhar o nome de uma fruta e tem 7 chances para acertar.
 >
->![Demonstração do Projeto, gif imgur](https://i.imgur.com/gdaw0tP.gif)
+>![Demonstração do Projeto, gif imgur](https://i.imgur.com/XGnNQEH.gif)
 
 
 ## Índice
@@ -19,8 +19,8 @@
 ## Introdução
 
 - O computador escolherá aleatóriamente o nome de uma fruta.
-- o jogador deverá chutar letra por letra até acertar a palavra ou acabar suas chances (5 letras).
-- Se o jogador chutar mais de 5 letras erradas, ele perde.
+- o jogador deverá chutar letra por letra até acertar a palavra ou acabar suas chances (7 letras).
+- Se o jogador chutar mais de 7 letras erradas, ele perde.
 
 ## Funcionalidades
 
@@ -28,7 +28,7 @@
 - **Desenho da Forca:** A forca é desenhada no console a cada erro cometido pelo jogador.
 - **Visualizão da palavra:** As letras corretamente adivinhadas são exibidas na posição correta.
 - **Contagem de Erros:** O jogo mostra o número de erros cometidos pelo jogador.
-
+**Validação de entrada:** Garante que apenas as opções válidas sejam aceitas.
 
 ## Como Usar
 
