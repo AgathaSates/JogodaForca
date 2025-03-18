@@ -41,7 +41,7 @@
             Console.WriteLine("                                       ");
             Console.WriteLine("           !!! Parabéns !!!            ");
             Console.WriteLine("     Você acertou a palvra secreta!    ");
-            Console.WriteLine($"          > {randomWord} <            ");
+            Console.WriteLine($"            > {randomWord} <          ");
             Console.WriteLine("     *             *                   ");
             Console.WriteLine(" *          *          *              *");
             Console.WriteLine("---------------------------------------");           
