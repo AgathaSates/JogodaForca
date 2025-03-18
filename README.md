@@ -1,6 +1,6 @@
 ﻿# Jogo da Forca
 
-![Status Finalizado](https://img.shields.io/badge/Status-Finalizado-green?color=Green)
+![Status Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento%20-yellow)
 
  ### Demonstração
  Este é um jogo da forca, você tenta adivinhar o nome de uma fruta e tem 7 chances para acertar.
