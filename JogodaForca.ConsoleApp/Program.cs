@@ -7,8 +7,8 @@
             while (true)
             {
                 Write.Menu();
-                int menuoption = Validator.IsaOption(1, 3);
-                switch (menuoption)
+                int menuOption = Validator.IsaOption(1, 3);
+                switch (menuOption)
                 {
                     case 1: HangmanGame.StartGame(); break;
                     case 2: Write.Rules(); break;

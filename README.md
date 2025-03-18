@@ -4,7 +4,7 @@
 ![Status Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento%20-yellow)
 
  ### Demonstração
-> Este é um jogo da forca, você tenta adivinhar o nome de uma fruta e tem 5 chances para acertar.
+ Este é um jogo da forca, você tenta adivinhar o nome de uma fruta e tem 7 chances para acertar.
 >
 >![Demonstração do Projeto, gif imgur](https://i.imgur.com/gdaw0tP.gif)
 
