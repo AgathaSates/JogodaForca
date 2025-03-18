@@ -1,7 +1,6 @@
-﻿﻿
-# Jogo da Forca
+﻿# Jogo da Forca
 
-![Status Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento%20-yellow)
+![Status Finalizado](https://img.shields.io/badge/Status-Finalizado-green?color=Green)
 
  ### Demonstração
  Este é um jogo da forca, você tenta adivinhar o nome de uma fruta e tem 7 chances para acertar.
@@ -19,7 +18,7 @@
 ## Introdução
 
 - O computador escolherá aleatóriamente o nome de uma fruta.
-- o jogador deverá chutar letra por letra até acertar a palavra ou acabar suas chances (5 letras).
+- O jogador deverá chutar letra por letra até acertar a palavra ou acabar suas chances (5 letras).
 - Se o jogador chutar mais de 5 letras erradas, ele perde.
 
 ## Funcionalidades
